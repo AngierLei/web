@@ -1,6 +1,10 @@
-html 5
-foo
+<!DOCTYPE html>
+<html>
+<body>
 
-BAR  
-  Angier Lei
-    Bina Jeong 
+<h1> BAR  </h1>
+<h2> Angier Lei </h2>
+<h3> Bina Jeong </h3>
+<!--
+Teamname, my name, partner name, respectively.
+-->
